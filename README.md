@@ -9,3 +9,5 @@ DB Fiddle: https://dbfiddle.uk/?rdbms=postgres_9.6&fiddle=b3485b09730bede7c502fe
 
 TODO:
  - Randomize ship placement
+
+![Game Output](./output.png)
