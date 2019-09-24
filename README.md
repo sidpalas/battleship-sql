@@ -5,7 +5,7 @@ This post on Hacker News [TicTacToe in SQL (Postgres)](https://news.ycombinator.
 
 Shortly after that I had a long plane ride and decided to build a game of battleship in SQL using the same approach.
 
-DB Fiddle: https://dbfiddle.uk/?rdbms=postgres_9.6&fiddle=b3485b09730bede7c502fe90113edb05
+DB Fiddle: https://dbfiddle.uk/?rdbms=postgres_9.6&fiddle=2431f8b518d7c943a0340a3bcffa5d96
 
 TODO:
  - Randomize ship placement
